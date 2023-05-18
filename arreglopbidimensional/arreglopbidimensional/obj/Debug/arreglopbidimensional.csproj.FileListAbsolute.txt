@@ -1,0 +1,16 @@
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\bin\Debug\arreglopbidimensional.exe.config
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\bin\Debug\arreglopbidimensional.exe
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\bin\Debug\arreglopbidimensional.pdb
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional.csproj.SuggestedBindingRedirects.cache
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\MainWindow.g.cs
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\App.g.cs
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional_MarkupCompile.cache
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional_MarkupCompile.lref
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\MainWindow.baml
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional.g.resources
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional.Properties.Resources.resources
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional.csproj.GenerateResource.cache
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional.exe
+C:\Users\coyar\source\repos\arreglopbidimensional\arreglopbidimensional\obj\Debug\arreglopbidimensional.pdb
