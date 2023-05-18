@@ -1,0 +1,16 @@
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\MainWindow.g.cs
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\App.g.cs
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos_MarkupCompile.cache
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos_MarkupCompile.lref
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\bin\Debug\wpfmatrices_calculos.exe.config
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\bin\Debug\wpfmatrices_calculos.exe
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\bin\Debug\wpfmatrices_calculos.pdb
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\MainWindow.baml
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos.g.resources
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos.Properties.Resources.resources
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos.csproj.GenerateResource.cache
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos.exe
+C:\Users\coyar\source\repos\wpfmatrices_calculos\wpfmatrices_calculos\obj\Debug\wpfmatrices_calculos.pdb

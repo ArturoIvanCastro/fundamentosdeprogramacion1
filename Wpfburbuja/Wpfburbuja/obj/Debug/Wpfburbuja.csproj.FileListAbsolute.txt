@@ -1,0 +1,16 @@
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\bin\Debug\Wpfburbuja.exe.config
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\bin\Debug\Wpfburbuja.exe
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\bin\Debug\Wpfburbuja.pdb
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja.csproj.SuggestedBindingRedirects.cache
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\MainWindow.g.cs
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\App.g.cs
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja_MarkupCompile.cache
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja_MarkupCompile.lref
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\MainWindow.baml
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja.g.resources
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja.Properties.Resources.resources
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja.csproj.GenerateResource.cache
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja.exe
+C:\Users\coyar\source\repos\Wpfburbuja\Wpfburbuja\obj\Debug\Wpfburbuja.pdb

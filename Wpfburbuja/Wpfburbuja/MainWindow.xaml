@@ -1,0 +1,52 @@
+﻿<Window x:Class="Wpfburbuja.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfburbuja"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid x:Name="grid1" Margin="0,0,566,236" ShowGridLines="True">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Grid x:Name="grid2" Margin="566,10,0,226" ShowGridLines="True">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Button x:Name="btncargar1" Content="CARGAR" HorizontalAlignment="Left" Margin="286,40,0,0" VerticalAlignment="Top" Height="31" Width="79" Click="btncargar_Click"/>
+        <Button x:Name="btnburbuja1" Content="ORDENAR" HorizontalAlignment="Left" Margin="439,40,0,0" VerticalAlignment="Top" Height="31" Width="79" Click="btnburbuja_Click"/>
+        <Button x:Name="btnseleccion1" Content="SELECCION" HorizontalAlignment="Left" Margin="285,119,0,0" VerticalAlignment="Top" Height="31" Width="80" Click="btnseleccion"/>
+        <Button x:Name="btninsercion1" Content="INSERCION" HorizontalAlignment="Left" Margin="439,119,0,0" VerticalAlignment="Top" Height="31" Width="80" Click="btninsercion_Click"/>
+        <Button x:Name="btnshell" Content="SHELL" HorizontalAlignment="Left" Margin="285,197,0,0" VerticalAlignment="Top" Height="31" Width="80" Click="btnshell_Click"/>
+        <Button x:Name="btnmezcla" Content="MEZCLA" HorizontalAlignment="Left" Margin="439,197,0,0" VerticalAlignment="Top" Height="31" Width="80" Click="btnmezcla_Click"/>
+        <Button x:Name="btnrapido" Content="RAPIDO" HorizontalAlignment="Left" Margin="285,264,0,0" VerticalAlignment="Top" Height="32" Width="80" Click="btnrapido_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="710,387,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+
+    </Grid>
+</Window>
