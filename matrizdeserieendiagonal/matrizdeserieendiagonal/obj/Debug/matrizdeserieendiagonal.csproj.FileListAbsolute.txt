@@ -1,0 +1,16 @@
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\bin\Debug\matrizdeserieendiagonal.exe.config
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\bin\Debug\matrizdeserieendiagonal.exe
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\bin\Debug\matrizdeserieendiagonal.pdb
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal.csproj.SuggestedBindingRedirects.cache
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\MainWindow.g.cs
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\App.g.cs
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal_MarkupCompile.cache
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal_MarkupCompile.lref
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\MainWindow.baml
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal.g.resources
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal.Properties.Resources.resources
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal.csproj.GenerateResource.cache
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal.exe
+C:\Users\coyar\source\repos\matrizdeserieendiagonal\matrizdeserieendiagonal\obj\Debug\matrizdeserieendiagonal.pdb
