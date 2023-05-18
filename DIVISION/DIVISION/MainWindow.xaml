@@ -1,0 +1,34 @@
+﻿<Window x:Class="DIVISION.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DIVISION"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Arianafornais.jpeg"/>
+        </Grid.Background>
+        <Button Content="CALCULA" HorizontalAlignment="Left" Margin="239,198,0,0" VerticalAlignment="Top" Height="28" Width="79" Click="Button_Click"/>
+        <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="227,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textbox2" HorizontalAlignment="Left" Margin="227,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textbox3" HorizontalAlignment="Left" Margin="227,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Valor 1" HorizontalAlignment="Left" Margin="176,73,0,0" VerticalAlignment="Top" BorderBrush="#00000000" Foreground="White">
+            <Label.Background>
+                <SolidColorBrush Color="Black" Opacity="0.7"/>
+            </Label.Background>
+        </Label>
+        <Label Content="Resultado" HorizontalAlignment="Left" Margin="160,151,0,0" VerticalAlignment="Top" BorderBrush="#00000000" Foreground="White">
+            <Label.Background>
+                <SolidColorBrush Color="Black" Opacity="0.7"/>
+            </Label.Background>
+        </Label>
+        <Label Content="Valor 2" HorizontalAlignment="Left" Margin="175,112,0,0" VerticalAlignment="Top" BorderBrush="#00000000" Foreground="White">
+            <Label.Background>
+                <SolidColorBrush Color="Black" Opacity="0.7"/>
+            </Label.Background>
+        </Label>
+
+    </Grid>
+</Window>
