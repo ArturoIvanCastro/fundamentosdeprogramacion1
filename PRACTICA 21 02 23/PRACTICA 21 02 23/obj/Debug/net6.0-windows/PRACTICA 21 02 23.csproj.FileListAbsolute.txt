@@ -1,0 +1,21 @@
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\bin\Debug\net6.0-windows\PRACTICA 21 02 23.exe
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\bin\Debug\net6.0-windows\PRACTICA 21 02 23.deps.json
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\bin\Debug\net6.0-windows\PRACTICA 21 02 23.runtimeconfig.json
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\bin\Debug\net6.0-windows\PRACTICA 21 02 23.dll
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\bin\Debug\net6.0-windows\PRACTICA 21 02 23.pdb
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23_MarkupCompile.cache
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23_MarkupCompile.lref
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.g.resources
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.AssemblyInfoInputs.cache
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.AssemblyInfo.cs
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.dll
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\refint\PRACTICA 21 02 23.dll
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.pdb
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\PRACTICA 21 02 23.genruntimeconfig.cache
+C:\Users\coyar\source\repos\PRACTICA 21 02 23\PRACTICA 21 02 23\obj\Debug\net6.0-windows\ref\PRACTICA 21 02 23.dll
