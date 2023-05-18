@@ -1,0 +1,16 @@
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\bin\Debug\Suma de arreglos.exe.config
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\bin\Debug\Suma de arreglos.exe
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\bin\Debug\Suma de arreglos.pdb
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos.csproj.SuggestedBindingRedirects.cache
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\MainWindow.g.cs
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\App.g.cs
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos_MarkupCompile.cache
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos_MarkupCompile.lref
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\MainWindow.baml
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos.g.resources
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma_de_arreglos.Properties.Resources.resources
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos.csproj.GenerateResource.cache
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos.exe
+C:\Users\coyar\source\repos\Suma de arreglos\Suma de arreglos\obj\Debug\Suma de arreglos.pdb
