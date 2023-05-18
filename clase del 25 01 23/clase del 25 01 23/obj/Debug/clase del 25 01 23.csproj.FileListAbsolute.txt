@@ -1,0 +1,11 @@
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\bin\Debug\clase del 25 01 23.exe.config
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\bin\Debug\clase del 25 01 23.exe
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\bin\Debug\clase del 25 01 23.pdb
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\obj\Debug\clase del 25 01 23.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\obj\Debug\clase del 25 01 23.csproj.SuggestedBindingRedirects.cache
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\obj\Debug\clase_del_25_01_23.Form1.resources
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\obj\Debug\clase_del_25_01_23.Properties.Resources.resources
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\obj\Debug\clase del 25 01 23.csproj.GenerateResource.cache
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\obj\Debug\clase del 25 01 23.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\obj\Debug\clase del 25 01 23.exe
+C:\Users\coyar\source\repos\clase del 25 01 23\clase del 25 01 23\obj\Debug\clase del 25 01 23.pdb
