@@ -1,0 +1,16 @@
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\bin\Debug\wpfmatrizseries.exe.config
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\bin\Debug\wpfmatrizseries.exe
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\bin\Debug\wpfmatrizseries.pdb
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries.csproj.SuggestedBindingRedirects.cache
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\MainWindow.g.cs
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\App.g.cs
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries_MarkupCompile.cache
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries_MarkupCompile.lref
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\MainWindow.baml
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries.g.resources
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries.Properties.Resources.resources
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries.csproj.GenerateResource.cache
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries.exe
+C:\Users\coyar\source\repos\wpfmatrizseries\wpfmatrizseries\obj\Debug\wpfmatrizseries.pdb
