@@ -1,0 +1,21 @@
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\bin\Debug\net6.0-windows\PROYECTO 2.exe
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\bin\Debug\net6.0-windows\PROYECTO 2.deps.json
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\bin\Debug\net6.0-windows\PROYECTO 2.runtimeconfig.json
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\bin\Debug\net6.0-windows\PROYECTO 2.dll
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\bin\Debug\net6.0-windows\PROYECTO 2.pdb
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.csproj.AssemblyReference.cache
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2_MarkupCompile.cache
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2_MarkupCompile.lref
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.g.resources
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.AssemblyInfoInputs.cache
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.AssemblyInfo.cs
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.csproj.CoreCompileInputs.cache
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.dll
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\refint\PROYECTO 2.dll
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.pdb
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\PROYECTO 2.genruntimeconfig.cache
+C:\Users\coyar\source\repos\PROYECTO 2\PROYECTO 2\obj\Debug\net6.0-windows\ref\PROYECTO 2.dll
