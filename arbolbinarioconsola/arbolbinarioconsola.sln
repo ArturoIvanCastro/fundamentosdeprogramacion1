@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arbolbinarioconsola", "arbolbinarioconsola\arbolbinarioconsola.csproj", "{DAC878A5-4739-46F7-AFBC-2D8471A24BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC878A5-4739-46F7-AFBC-2D8471A24BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC878A5-4739-46F7-AFBC-2D8471A24BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC878A5-4739-46F7-AFBC-2D8471A24BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC878A5-4739-46F7-AFBC-2D8471A24BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C73904-E208-401C-97A3-9BEF6B2EA073}
+	EndGlobalSection
+EndGlobal
