@@ -1,0 +1,16 @@
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos.csproj.AssemblyReference.cache
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\MainWindow.g.cs
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\App.g.cs
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos_MarkupCompile.cache
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos_MarkupCompile.lref
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\bin\Debug\22031491Estructuradedatos.exe.config
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\bin\Debug\22031491Estructuradedatos.exe
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\bin\Debug\22031491Estructuradedatos.pdb
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\MainWindow.baml
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos.g.resources
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\_22031491Estructuradedatos.Properties.Resources.resources
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos.csproj.GenerateResource.cache
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos.exe
+C:\Users\ricky\Source\Repos\22031491Estructuradedatos\22031491Estructuradedatos\obj\Debug\22031491Estructuradedatos.pdb
